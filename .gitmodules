@@ -1,0 +1,3 @@
+[submodule "beehive"]
+	path = beehive
+	url = https://github.com/shouyintv/beehive-php.git
